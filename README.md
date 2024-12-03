@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 **Mechanical Engineering graduate** transitioning into a career in **Full Stack Development**.
-- 💻 Passionate about solving problems and creating efficient digital solutions.
+- 💻 Passionate about solving problems, creating efficient digital solutions and learning new things.
 - 📚 Currently studying and developing projects focused on modern technologies.
 
 ### 🛠️ Technologies and Tools
@@ -33,10 +33,17 @@
 - 🖥️ [**Disney+ Landing Page Clone**](https://github.com/GustavoKasaki/clone_disneyplus)  
   _A Disney Plus landing page clone developed using Javascript, HTML and SASS._  
 
-### 🌱 What I'm Learning Now?
+### 📚 What I'm Learning Now?
 - Software architecture and best practices for scalable projects.  
-- Technologies like **React** and **Redux** for modern development.  
+- Technologies like **React** and **Redux** for modern development.
 
-### 💡 Let's Connect!
+### 💭 Future goals 
+- Learn and apply the back-end languages **C#** and **PHP**.
+- Learn the **.Net** framework.
+- Learn more about mobile app development.
+- Help other developers in their projects, whenever possible.
+- Never stop learning!
+
+### 🤝🏼 Let's Connect!
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokasaki)  
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmkasaki@gmail.com)
