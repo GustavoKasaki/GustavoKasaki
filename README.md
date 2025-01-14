@@ -27,17 +27,17 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 📂 Recent Projects
-- 🎥 [**'Deadpool & Wolverine' Landing Page**](https://github.com/GustavoKasaki/landing-page-disney)  
-  _A landing page inspired by Disney+ 'Deadpool & Wolverine' movie page, focused on responsiveness and visual design._  
+- 📝 [**To-Do list using React/Redux**](https://github.com/GustavoKasaki/project5-todo-list)  
+  _An application that helps users organize their tasks with an intuitive and responsive interface._
 
-- 🖥️ [**Disney+ Landing Page Clone**](https://github.com/GustavoKasaki/clone_disneyplus)  
-  _A Disney Plus landing page clone developed using Javascript, HTML and SASS._  
+- ⚖️ [**Body Mass Index Calculator with React**](https://github.com/GustavoKasaki/gmk-bmi-calculator-react)  
+  _An application that allows users to quickly calculate their BMI and determine their weight category based on the result._
 
 ### 📚 What I'm Learning Now?
-- Software architecture and best practices for scalable projects.  
+- Software architecture and best practices for scalable projects.
 - Technologies like **React** and **Redux** for modern development.
 
-### 💭 Future goals 
+### 💭 Future goals
 - Learn and apply the back-end languages **C#** and **PHP**.
 - Learn the **.Net** framework.
 - Learn more about mobile app development.
