@@ -44,6 +44,10 @@
 - Help other developers in their projects, whenever possible.
 - Never stop learning!
 
+### 📈 Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoKasaki&theme=highcontrast&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKasaki&theme=highcontrast&layout=compact&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🤝🏼 Let's Connect!
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokasaki)  
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokasaki) 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmkasaki@gmail.com)
