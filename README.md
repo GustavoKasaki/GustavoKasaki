@@ -29,11 +29,14 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 📂 Recent Projects
-- 📝 [**To-Do list using React/Redux**](https://github.com/GustavoKasaki/project5-todo-list)  
-  _An application that helps users organize their tasks with an intuitive and responsive interface._
+- 🧰 [**Help desk system with React/Next.js**](https://github.com/GustavoKasaki/help-desk-system)  
+  _An application designed to streamline customer support by providing an efficient ticketing system._
 
 - ⚖️ [**Body Mass Index Calculator with React**](https://github.com/GustavoKasaki/gmk-bmi-calculator-react)  
   _An application that allows users to quickly calculate their BMI and determine their weight category based on the result._
+
+- 🍴 [**Food Delivery website with React**](https://github.com/GustavoKasaki/gmk-efood)  
+  _An application designed to provide an engaging and user-friendly interface for browsing and ordering food from restaurants._
 
 ### 📚 What I'm Learning Now?
 - Software architecture and best practices for scalable projects.
