@@ -3,7 +3,7 @@
 ### 🪪 Check out my portfolio [**here**](https://gmk-portfolio.vercel.app/)!
 
 ### 🧑🏻‍💻 About Me
-- **IT Analyst** transitioning into **Full Stack Development**.
+- **IT Analyst** | **Full Stack Developer**.
 - Passionate about solving problems, creating efficient digital solutions and learning new things.
 - Currently studying and developing projects focused on modern technologies.
 
