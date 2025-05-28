@@ -58,10 +58,11 @@
 
 ### 📚 What I'm doing now?
 - Coding the Help desk system.
-- Learning **Python** programming.
+- Learning **Python**.
+- Learning **SQL**.
 
 ### 💭 What I'm up to?
-- Learn and apply **Java**.
+- Learn and apply **.NET** and **C#**.
 - Learn more about mobile app development.
 - Help other developers in their projects, whenever possible.
 - Never stop learning!
