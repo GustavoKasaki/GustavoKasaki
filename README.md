@@ -58,6 +58,7 @@
 
 ### 📚 What I'm doing now?
 - Coding the Help desk system.
+- Developing a social media.
 - Learning **Python**.
 - Learning **SQL**.
 
