@@ -22,6 +22,8 @@
 ![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/AdvPL-cyan?style=for-the-badge&logo=totvs&logoColor=black&color=cyan)
+
 
 **Database:**  
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -57,10 +59,8 @@
   _An application designed to provide an engaging and user-friendly interface for browsing and ordering food from restaurants._
 
 ### 📚 What I'm doing now?
-- Coding the Help desk system.
-- Developing a social media.
-- Learning **Python**.
-- Learning **SQL**.
+- Developing a simple social media.
+- Learning **AdvPL**.
 
 ### 💭 What I'm up to?
 - Learn and apply **.NET** and **C#**.
