@@ -69,8 +69,9 @@
 - Never stop learning!
 
 ### 📈 Github Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoKasaki&theme=highcontrast&hide=issues,contribs&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKasaki&theme=highcontrast&layout=compact&card_width=467)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
 
 ### 🤝🏼 Let's Connect!
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavokasaki) 
