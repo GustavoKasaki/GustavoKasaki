@@ -59,11 +59,10 @@
   _An application designed to provide an engaging and user-friendly interface for browsing and ordering food from restaurants._
 
 ### 📚 What I'm doing now?
+- Learning **Java**.
 - Developing a simple social media.
-- Learning **AdvPL**.
 
 ### 💭 What I'm up to?
-- Learn and apply **.NET** and **C#**.
 - Learn more about mobile app development.
 - Help other developers in their projects, whenever possible.
 - Never stop learning!
